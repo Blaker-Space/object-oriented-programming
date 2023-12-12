@@ -2,12 +2,12 @@
 This repository is a collection of the various programs I created in the course "COSC1337: The Object Oriented Paradigm" at The University of Texas at Tyler during the Fall 2023 semester!
 
 # How to Navigate:
-<h1>LabXLX</h1>
+<h3>LabXLX</h3>
 Each folder containing "Lab" in the title was a professor-guided Lab that was completed in-class. The number following "Lab" corresponds to the chapter number for that specific lab. The letter "L" simply means "lab" and the number following it is the lab number for that specific chapter.
 <em>Example:</em>
 Lab5L1 Selection = "Chapter 5 lab, first lab for this chapter"
 
-<h1>Program X</h1>
+<h3>Program X</h3>
 Each folder titled "Program 'X'" contains student-completed Programs separate from class without instructor assistance. 
 
 # Main Topics Covered:
